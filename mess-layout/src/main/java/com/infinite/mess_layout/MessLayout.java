@@ -39,6 +39,9 @@ public class MessLayout extends ViewGroup{
     @Override
     protected void onLayout(boolean changed, int l, int t, int r, int b) {
 
+        int left =0;
+        int top=0;
+
         for(int i=0;i<getChildCount();i++){
             View view=getChildAt(i);
         }
