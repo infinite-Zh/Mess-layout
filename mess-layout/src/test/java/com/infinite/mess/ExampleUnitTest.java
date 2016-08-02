@@ -1,4 +1,4 @@
-package com.infinite.mess_layout;
+package com.infinite.mess;
 
 import org.junit.Test;
 

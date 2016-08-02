@@ -1,4 +1,4 @@
-package com.infinite.mess_layout;
+package com.infinite.mess;
 
 /**
  * Created by inf on 2016/7/29.
