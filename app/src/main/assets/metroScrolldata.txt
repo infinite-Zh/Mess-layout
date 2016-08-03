@@ -4,14 +4,14 @@
         "title": "客户管理",
         "image": "客户管理",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"max"
+        "size":"min"
     },
     {
         "ezLayout": "EZMetroCell",
         "title": "预约日程",
         "image": "预约日程",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"min"
+        "size":"max"
 
     },
     {
@@ -26,7 +26,7 @@
         "title": "我的助理",
         "image": "我的助理",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"min"
+        "size":"max"
 
     },
         {
@@ -34,27 +34,27 @@
         "title": "服务管理",
         "image": "服务管理",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"min"
+        "size":"max"
     },
     {
         "ezLayout": "EZMetroCell",
         "title": "专业园地",
         "image": "专业园地",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"min"
+        "size":"max"
     },
     {
         "ezLayout": "EZMetroCell",
         "title": "健康圈",
         "image": "健康圈",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"max"
+        "size":"min"
     },
     {
         "ezLayout": "EZMetroCell",
         "title": "我的账户",
         "image": "我的账户",
         "ezAction": "@{\"targetLayout\":\"EZWebViewController\",\"targetClass\":\"EZWebViewController\",\"targetData\": { \"ezDataUrl\": \"http://www.znz888.cn/special/intro5357/\"}}",
-        "size":"max"
+        "size":"min"
     }
 ]

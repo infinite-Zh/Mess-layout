@@ -47,4 +47,10 @@ public class ItemView extends LinearLayout implements IMess{
 //        mTxt.setText(txt);
         mStr=txt;
     }
+
+    @Override
+    protected void onMeasure(int widthMeasureSpec, int heightMeasureSpec) {
+        super.onMeasure(widthMeasureSpec, heightMeasureSpec);
+        setMeasuredDimension(MeasureSpec.getSize(widthMeasureSpec),MeasureSpec.getSize(heightMeasureSpec));
+    }
 }

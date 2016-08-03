@@ -44,7 +44,6 @@ public class MessLayout extends LinearLayout{
             measureChild(getChildAt(i),MeasureSpec.makeMeasureSpec((getWidth()-getPaddingLeft()-getPaddingRight()-SPACE)/ratio,MeasureSpec.EXACTLY),MeasureSpec.makeMeasureSpec((getHeight()-getPaddingTop()-getPaddingBottom())/4,MeasureSpec.EXACTLY));
         }
         setMeasuredDimension(widthSize,heightSize);
-
     }
 
 

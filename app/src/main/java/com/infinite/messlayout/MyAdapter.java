@@ -32,12 +32,12 @@ public class MyAdapter extends PagerAdapter{
 
     @Override
     public Object instantiateItem(ViewGroup container, int position) {
+        container.addView(list.get(position));
         return list.get(position);
     }
 
     @Override
     public void destroyItem(ViewGroup container, int position, Object object) {
-        super.destroyItem(container, position, object);
         container.removeView((View) list.get(position));
     }
 }
